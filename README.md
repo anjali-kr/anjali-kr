@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Anjali</h1>
+<h3>Hi 👋, I'm Anjali</h3>
 <h4>I'm a fullstack / frontend developer based in Berlin</h4>
 
 🌱 I’m currently learning **React**
